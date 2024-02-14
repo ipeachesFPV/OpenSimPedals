@@ -29,7 +29,7 @@
 #define DEBUG_SENSOR  false
 #define THROTTLE      true
 #define BRAKE         true
-#define CLUTCH        false
+#define CLUTCH        true
 
 
 #include <Arduino.h>
